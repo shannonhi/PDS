@@ -5,6 +5,7 @@
 This project implements a cloud-connected rain detection system using an ESP32-C6 microcontroller and AWS IoT Core.
 
 The system reads analog data from a rain sensor and determines whether the surface is wet or dry. The processed data is then transmitted securely to AWS IoT Core using the MQTT protocol over TLS, enabling real-time remote monitoring.
+
 ![Image (1) (1)](https://github.com/user-attachments/assets/dd2e3395-11ea-474f-941a-7fe5543c1959)
 
 ---
